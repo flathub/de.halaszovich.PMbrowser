@@ -24,8 +24,8 @@
         {
           "type": "git",
           "url": "https://github.com/ChrisHal/PMbrowser.git",
-          "tag": "v2.3.0",
-          "commit": "6d0d6d7df4aa1770804cb75669dcb78bbfb6650a"
+          "tag": "v2.4.0",
+          "commit": "779acfc306a0ba2eadc20d6be5d920cd8ca0c247"
         }
       ]
     }
