@@ -14,11 +14,12 @@
     "--device=dri"
   ],
   "modules": [
+    "pypi-dependencies.json",
     {
       "name": "Pmbrowser",
       "buildsystem": "cmake-ninja",
       "config-opts": [
-        "-DCMAKE_BUILD_TYPE=Release"
+        "-DCMAKE_BUILD_TYPE=Release", "-DBUILD_DOCS=on"
       ],
       "sources": [
         {
