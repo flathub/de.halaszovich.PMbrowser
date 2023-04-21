@@ -19,14 +19,13 @@
       "name": "Pmbrowser",
       "buildsystem": "cmake-ninja",
       "config-opts": [
-        "-DCMAKE_BUILD_TYPE=Release", "-DBUILD_DOCS=on"
+        "-DCMAKE_BUILD_TYPE=RelWithDebInfo", "-DBUILD_DOCS=on"
       ],
       "sources": [
         {
           "type": "git",
           "url": "https://github.com/ChrisHal/PMbrowser.git",
-          "tag": "v2.4.0",
-          "commit": "779acfc306a0ba2eadc20d6be5d920cd8ca0c247"
+          "commit": "db2bc698cae45e25b19b6795cef4b73fe0e40c84"
         }
       ]
     }
