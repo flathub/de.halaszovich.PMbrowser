@@ -1,7 +1,7 @@
 {
   "app-id": "de.halaszovich.PMbrowser",
   "runtime": "org.kde.Platform",
-  "runtime-version": "6.5",
+  "runtime-version": "6.6",
   "sdk": "org.kde.Sdk",
   "command": "QtPMbrowser",
   "finish-args": [
@@ -23,7 +23,7 @@
         {
           "type": "git",
           "url": "https://github.com/ChrisHal/PMbrowser.git",
-          "commit": "047811bbf323f6177f0f45878f6365ebd7b91118"
+          "commit": "3eac61e3a23cbd3998e67ec236e1de466bf1b5f1"
         }
       ]
     }
