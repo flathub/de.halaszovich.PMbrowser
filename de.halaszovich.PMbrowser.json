@@ -3,6 +3,9 @@
   "runtime": "org.kde.Platform",
   "runtime-version": "6.7",
   "sdk": "org.kde.Sdk",
+    "platform-extensions": [
+    "org.kde.Platform.Locale"
+  ],
   "command": "QtPMbrowser",
   "finish-args": [
     "--share=ipc",
